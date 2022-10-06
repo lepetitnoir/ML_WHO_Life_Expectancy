@@ -25,4 +25,5 @@
 #### Exploratory data analysis, feature importance, error metrics, power law distribution
 
 ### Day 8 Presentation
+#### Updating readme file, inserting exploratory data analysis, visual results of previous days
 
